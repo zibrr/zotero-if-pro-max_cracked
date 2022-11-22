@@ -2,6 +2,7 @@
 
 A cracked version of [zotero-if-pro-max](https://qnscholar.gitee.io/zotero-if-pro-max/)    
 破解版中未包含文献库自毁程序（付费原版有，[作者说明](https://github.com/zibrr/zotero-if-pro-max_cracked/issues/2)）。
+Zotero IF Pro Max 插件中存在的数据泄露风险，请参考这个[说明](https://github.com/zibrr/zotero-if-pro-max_cracked/issues/9#issuecomment-1322957344)
 
 ## 重要 请使用最新破解版本
 
